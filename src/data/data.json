@@ -1,0 +1,297 @@
+{
+   "logo":"https://binyousaf.pk/wp-content/uploads/2022/11/logo.png",
+   "homepics":[
+    {
+     "name":"Boski",
+     "image":"https://binyousaf.pk/wp-content/uploads/2022/11/Boski-1367x2048.jpg",
+     "nev":"boski"
+    },
+    {
+        "name":"Wash-and-Wear",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/Wash-and-wear-1367x2048.jpg",
+        "nev":"wash-and-wear"
+    },
+    {
+        "name":"Kurta",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/kurta-1367x2048.jpg",
+        "nev":"kurta"
+    },
+    {
+        "name":"Men-Shawl",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/shawls-1367x2048.jpg",
+        "nev":"men-shawl"
+    },
+    {
+        "name":"Cotton",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/cotton-1367x2048.jpg",
+        "nev":"cotton"
+    },
+    {
+        "name":"Karandi",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/karandi-1367x2048.jpg",
+        "nev":"karandi"
+    }
+   ],
+   "boskipics":[
+     {
+        "id":"1",
+        "url":"boski",
+        "name":"Black Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/b1.jpg",
+        "price":"₨ 2,450"
+     },
+     {
+        "id":"2",
+        "url":"boski",
+        "name":"Camel Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/2-5.jpg",
+        "price":"₨ 1,990"
+     },
+     {
+        "id":"3",
+        "url":"boski",
+        "name":"Classical Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/B2_11zon-1367x2048.jpg",
+        "price":"₨ 8,500"
+     }
+     ,
+     {
+        "id":"4",
+        "url":"boski",
+        "name":"Greenish Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2023/02/6.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"5",
+        "url":"boski",
+        "name":"Grey Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2023/02/5.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"6",
+        "url":"boski",
+        "name":"Light Green Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/4-4.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"7",
+        "url":"boski",
+        "name":"Premium Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/do-gorah-1.jpg",
+        "price":"₨ 11,000"
+     }
+     ,
+     {
+        "id":"8",
+        "url":"boski",
+        "name":"Roman Silk Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/1.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"9",
+        "url":"boski",
+        "name":"Rose Gold Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2023/02/7.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"10",
+        "url":"boski",
+        "name":"Silver Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/3-6.jpg",
+        "price":"₨ 1,990"
+     }
+     ,
+     {
+        "id":"11",
+        "url":"boski",
+        "name":"Standard Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/b1_11zon-1367x2048.jpg",
+        "price":"₨ 6,500"
+     }
+     ,
+     {
+        "id":"12",
+        "url":"boski",
+        "name":"White Boski",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/1-5.jpg",
+        "price":"₨ 1,990"
+     }
+   ],
+   "wwpics":[
+    {
+        "id":"1",
+        "url":"wash-and-wear",
+        "name":"Chocolate",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/6-1-1367x2048.jpg",
+        "price":"₨ 2,200"
+    }
+    ,
+    {
+        "id":"2",
+        "url":"wash-and-wear",
+        "name":"Dark Skin",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/2-1-1367x2048.jpg",
+        "price":"₨ 2,200"
+    }
+    ,
+    {
+        "id":"3",
+        "url":"wash-and-wear",
+        "name":"Khaki",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/5-2-1367x2048.jpg",
+        "price":"₨ 2,200"
+    }
+    ,
+    {
+        "id":"4",
+        "url":"wash-and-wear",
+        "name":"Lavish Pink",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/3-2-1367x2048.jpg",
+        "price":"₨ 2,200"
+    }
+    ,
+    {
+        "id":"5",
+        "url":"wash-and-wear",
+        "name":"White",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/1-1.jpg",
+        "price":"₨ 2,200"
+    }
+    ,
+    {
+        "id":"6",
+        "url":"wash-and-wear",
+        "name":"Woody Brown",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/4-1.jpg",
+        "price":"₨ 2,200"
+    }
+   ],
+   "kurtapics":[
+    {
+        "id":"1",
+        "url":"kurta",
+        "name":"Dark Green",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/4-2.jpg",
+        "price":"₨ 1,200"
+    }
+    ,
+    {
+        "id":"2",
+        "url":"kurta",
+        "name":"Dark Olive",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/5-3.jpg",
+        "price":"₨ 1,200"
+    }
+    ,
+    {
+        "id":"3",
+        "url":"kurta",
+        "name":"Light Grey",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/2-2.jpg",
+        "price":"₨ 1,200"
+    }
+    ,
+    {
+        "id":"4",
+        "url":"kurta",
+        "name":"Stylish Brown",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/3-3.jpg",
+        "price":"₨ 1,200"
+    }
+    ,
+    {
+        "id":"5",
+        "url":"kurta",
+        "name":"Teal Plain",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/1-2.jpg",
+        "price":"₨ 1,200"
+    }
+    ,
+    {
+        "id":"6",
+        "url":"kurta",
+        "name":"Yellow",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/6-2.jpg",
+        "price":"₨ 1,200"
+    }
+   ],
+   "menspics":[
+    {
+        "id":"1",
+        "url":"men-shawl",
+        "name":"beige Plain",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/6-3-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    ,
+    {
+        "id":"2",
+        "url":"men-shawl",
+        "name":"Embroidered",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/1-3-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    ,
+    {
+        "id":"3",
+        "url":"men-shawl",
+        "name":"Light Brown",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/2-3-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    ,
+    {
+        "id":"4",
+        "url":"men-shawl",
+        "name":"Navy Blue",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/4-3-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    ,
+    {
+        "id":"5",
+        "url":"men-shawl",
+        "name":"Red",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/3-4-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    ,
+    {
+        "id":"5",
+        "url":"men-shawl",
+        "name":"new product",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/3-4-1367x2048.jpg",
+        "price":"₨ 3,000"
+    }
+    
+
+   ],
+   "cottonpics":[
+    {
+        "id":"1",
+        "name":"Cotton",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/6-3-1367x2048.jpg",
+        "price":"₨ 3,000",
+        "message":"No products were found matching your selection"
+    }
+   ],
+   "karandipics":[
+    {
+        "id":"1",
+        "name":"Karandi",
+        "image":"https://binyousaf.pk/wp-content/uploads/2022/11/6-3-1367x2048.jpg",
+        "price":"₨ 3,000",
+        "message":"No products were found matching your selection"
+    }
+   ]
+}

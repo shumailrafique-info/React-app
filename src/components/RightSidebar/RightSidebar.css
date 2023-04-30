@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+/* font-family: 'Russo One', sans-serif; */
+.view-cart{
+    cursor: pointer;
+    background-color: #333;
+    transition: .5s ease all;
+}
+.check-out{
+    background-color: #333;
+    cursor: pointer;
+    transition: .5s ease all;
+}
+.check-out:hover,.view-cart:hover{
+   background-color: #BB7B1C;
+}
+.sidebar-shopping-cart{
+    font-size: 1.2rem;
+    padding: 1rem;
+    font-family: 'Russo One', sans-serif;
+}

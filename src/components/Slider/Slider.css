@@ -1,0 +1,4 @@
+.slider_img{
+    height: clamp(17rem,60vw,30rem);
+    /* height: 70vw ; */
+}

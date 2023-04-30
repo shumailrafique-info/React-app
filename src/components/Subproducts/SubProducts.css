@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto&display=swap");
+/* font-family: 'Roboto', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+/* font-family: 'Russo One', sans-serif; */
+* {
+  box-sizing: border-box;
+}
+.links-box div {
+  padding: 13px 0px 13px;
+  font-size: 0.7rem;
+  cursor: pointer;
+  transition: 0.7s ease all;
+}
+.links-box div:hover {
+    color: #fcb900;
+}
+.sub-p {
+  font-size: 0.8rem;
+  font-family: "Russo One", sans-serif;
+  padding-top: 1rem;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+.sub-price {
+  padding: 0.1rem 0px 2rem 0px;
+  margin: 0px;
+  font-size: .8rem;
+  font-weight: 700;
+  color: #BB7B1C;
+}
+.hover-icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: -50px;
+  z-index: 100;
+  width: 100%;
+  transition: .5s ease all;
+}
+
+.hover-icons i{
+  background-color: #333;
+  height: 2.1rem;
+  width: 2.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 4px 0px 4px;
+  color: white;
+  font-size: .8rem;
+  transition: .5s ease all;
+}
+.hover-icons i:hover{
+  background-color: #BB7B1C;
+}
+.main-sub-div:hover .hover-icons{
+  bottom: 0px;
+
+}
+
+@media only screen and (max-width: 768px) {
+.order-set{
+  order: 1;
+}
+}

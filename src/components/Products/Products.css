@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+/* font-family: 'Russo One', sans-serif; */
+
+
+.main-product-name{
+    font-family: 'Russo One', sans-serif;
+    color: rgb(132, 126, 126);
+}
+.main-product-div{
+    transition: .8s ease all;
+}
+.main-product-div:hover{
+  transform: scale(1.05);
+}
+.main-container-row{
+    padding: 0px 5rem 0px 5rem;
+}
+@media only screen and (max-width: 1000px) {
+    .main-container-row{
+        padding: 0px 2rem 0px 2rem;
+    }
+  }
+@media only screen and (max-width: 776px) {
+    .main-container-row{
+        padding: 0px 0rem 0px 0rem;
+    }
+  }
